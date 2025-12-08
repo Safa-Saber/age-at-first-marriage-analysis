@@ -161,7 +161,7 @@ This project provides a foundation for:
 
 ### For Researchers
 - Review methodology in milestone documentation
-- Access cleaned datasets in `1_data_collection/`
+- Access cleaned datasets in `2_data_preparation/`
 - Examine analysis code in `3_data_analysis/`
 - Replicate findings using provided scripts
 
