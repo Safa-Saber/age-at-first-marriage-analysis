@@ -252,26 +252,6 @@ Future researchers could build on our findings by:
 
 ---
 
-## Resources in This Folder
-
-### Structure
-```
-0_domain_study/
-├── README.md (you are here)
-├── key_research_papers/ (academic sources)
-├── data_sources.md (where to find marriage age data)
-├── glossary.md (terminology)
-└── background_notes.md (additional context)
-```
-
-### How to Use This Folder
-- **Start Here**: Read this README first
-- **For Context**: Check `background_notes.md`
-- **For Terms**: Reference `glossary.md`
-- **For Data**: See `data_sources.md`
-- **For Deep Dive**: Review research papers in relevant subfolder
-
----
 
 ## Key Takeaways
 
