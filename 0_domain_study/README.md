@@ -323,11 +323,6 @@ This domain knowledge informs our entire analysis:
 - Are younger generations in each country delaying marriage?
 - What role do education systems play in different regions?
 
-### For Future Research
-- Conduct qualitative interviews in countries with different marriage patterns
-- Link marriage age data to education and economic indicators
-- Analyze policy interventions and their effectiveness
-- Study within-country regional variation
 
 ---
 
