@@ -84,8 +84,20 @@ This folder contains the communication strategy and artifacts designed to presen
 
 ---
 
-### 📈 `Image1.png` - Not labeled in folder but referenced in infographic
-*See: Global Country Comparison chart description above*
+### 📑 `Age at First Marriage_ Asia in Global Context.pdf`
+**Purpose:** PDF version of the visual infographic for easy printing and sharing
+
+**Content:**
+- Same content as the HTML infographic
+- Formatted for print and digital distribution
+- Professional layout for reports and presentations
+- Portable format compatible with all devices
+
+**Usage:**
+- Print for physical presentations
+- Attach to emails or reports
+- Share via any platform (no browser needed)
+- Archive-friendly format
 
 ---
 
