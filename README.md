@@ -2,7 +2,7 @@
 
 **Research Project | MIT Emerging Talent Program**  
 **Researcher:** Safa Saber  
-**Project Period:** November 29 - December 6, 2024
+**Project Period:** November 29 - December 6, 2025
 
 ---
 
