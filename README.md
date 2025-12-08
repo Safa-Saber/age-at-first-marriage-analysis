@@ -86,9 +86,9 @@ Understanding these patterns helps inform policies on education, gender equality
 ├── 2_data_exploration/      # Exploratory analysis
 ├── 3_data_analysis/         # Statistical analysis and findings
 ├── 4_communication/         # Infographic and presentation materials
-├── milestones/              # Documentation of all 6 project milestones
+├── note/                    # Documentation of all 6 project milestones
 ├── collaboration/           # Project planning documents
-└── README.md               # This file
+└── README.md                # This file
 ```
 
 ---
@@ -186,7 +186,7 @@ This project provides a foundation for:
 
 **Researcher:** Safa Saber  
 **Program:** MIT Emerging Talent Program  
-**Date Completed:** December 6, 2024
+**Date Completed:** December 6, 2025
 
 This project was completed as part of the Collaborative Data Science Project (CDSP) coursework. All data, code, and findings are open source and available for educational and research purposes.
 
